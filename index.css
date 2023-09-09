@@ -1,0 +1,182 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+header {
+  width: 100%;
+  background-color: rgb(242, 251, 225);
+  display: flex;
+  justify-content: space-around;
+  border-style: outset;
+}
+
+header h1 {
+  font-size: 20px;
+}
+
+.nombre {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+}
+
+main {
+  display: flex;
+}
+
+.izquierda {
+  width: 30%;
+}
+
+.derecha {
+  width: 70%;
+}
+
+.education {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 250px;
+  margin: 25px;
+  padding: 10px;
+}
+
+.skils {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 180px;
+  margin: 25px;
+  padding: 10px;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+.contacto {
+  display: flex;
+  flex-direction: column;
+  height: 100px;
+  margin: 25px;
+  justify-content: space-around;
+}
+
+.over {
+  display: flex;
+  flex-direction: column;
+  height: 220px;
+  justify-content: space-around;
+  margin-right: 25px;
+  margin-left: 12px;
+  margin-top: 12px;
+  padding: 10px;
+}
+
+.we {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 220px;
+  margin-left: 12px;
+  margin-right: 25px;
+  padding: 10px;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+header {
+  width: 100%;
+  background-color: rgb(242, 251, 225);
+  display: flex;
+  justify-content: space-around;
+  border-style: outset;
+}
+
+header h1 {
+  font-size: 20px;
+}
+
+.nombre {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+}
+
+main {
+  display: flex;
+}
+
+.izquierda {
+  width: 30%;
+}
+
+.derecha {
+  width: 70%;
+}
+
+.education {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 250px;
+  margin: 25px;
+  padding: 10px;
+}
+
+.skils {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 180px;
+  margin: 25px;
+  padding: 10px;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+.contacto {
+  display: flex;
+  flex-direction: column;
+  height: 100px;
+  margin: 25px;
+  justify-content: space-around;
+}
+
+.over {
+  display: flex;
+  flex-direction: column;
+  height: 220px;
+  justify-content: space-around;
+  margin-right: 25px;
+  margin-left: 12px;
+  margin-top: 12px;
+  padding: 10px;
+}
+
+.we {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 220px;
+  margin-left: 12px;
+  margin-right: 25px;
+  padding: 10px;
+}
